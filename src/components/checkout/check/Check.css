@@ -1,0 +1,10 @@
+.maincheckotnav{
+    display: flex;
+    align-items: center;
+}
+.checkoutlogo{
+    height: 60px;
+}
+.checkout-heading {
+    font-family: "Poppins";
+}

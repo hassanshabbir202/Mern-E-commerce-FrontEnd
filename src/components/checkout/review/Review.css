@@ -1,0 +1,23 @@
+.reveiwn-main-conainer{
+    display: flex;
+    justify-content: center;
+}
+.just-review{
+    background-color: #edf1f4;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 34%;
+    padding: 2rem 1rem;
+    margin-top: -2.5rem;
+}
+.place{
+    background-color: #18355e;
+    padding: .5rem 2.5rem;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+    color: #fff;
+    margin-left: .5rem;
+    font-family: "Poppins";
+    cursor: pointer;
+    margin-top: 1rem;
+}
